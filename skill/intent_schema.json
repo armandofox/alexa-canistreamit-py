@@ -1,0 +1,9 @@
+{
+  "intents": [
+    { "intent": "SearchIntent",
+      "slots": [{ "name": "Movie", "type": "MOVIE" }] },
+    { "intent": "AMAZON.StopIntent" },
+    { "intent": "AMAZON.CancelIntent" }
+  ]
+}
+
